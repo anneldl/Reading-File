@@ -1,0 +1,13 @@
+C:\Users\ComputerLab4PC1\source\repos\LopezCreatingTextFile\bin\Debug\LopezCreatingTextFile.exe.config
+C:\Users\ComputerLab4PC1\source\repos\LopezCreatingTextFile\bin\Debug\LopezCreatingTextFile.exe
+C:\Users\ComputerLab4PC1\source\repos\LopezCreatingTextFile\bin\Debug\LopezCreatingTextFile.pdb
+C:\Users\ComputerLab4PC1\source\repos\LopezCreatingTextFile\obj\Debug\LopezCreatingTextFile.csprojAssemblyReference.cache
+C:\Users\ComputerLab4PC1\source\repos\LopezCreatingTextFile\obj\Debug\LopezCreatingTextFile.FrmLab1.resources
+C:\Users\ComputerLab4PC1\source\repos\LopezCreatingTextFile\obj\Debug\LopezCreatingTextFile.FrmFileName.resources
+C:\Users\ComputerLab4PC1\source\repos\LopezCreatingTextFile\obj\Debug\LopezCreatingTextFile.Form3.resources
+C:\Users\ComputerLab4PC1\source\repos\LopezCreatingTextFile\obj\Debug\LopezCreatingTextFile.Properties.Resources.resources
+C:\Users\ComputerLab4PC1\source\repos\LopezCreatingTextFile\obj\Debug\LopezCreatingTextFile.csproj.GenerateResource.cache
+C:\Users\ComputerLab4PC1\source\repos\LopezCreatingTextFile\obj\Debug\LopezCreatingTextFile.exe
+C:\Users\ComputerLab4PC1\source\repos\LopezCreatingTextFile\obj\Debug\LopezCreatingTextFile.pdb
+C:\Users\ComputerLab4PC1\source\repos\LopezCreatingTextFile\obj\Debug\LopezCreatingTextFile.FrmOpenTextFile.resources
+C:\Users\ComputerLab4PC1\source\repos\LopezCreatingTextFile\obj\Debug\LopezCreatingTextFile.FrmStudentRecord.resources
